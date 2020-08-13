@@ -1,0 +1,9 @@
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/bin/Debug/FizzBuzzGenerator.dll
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/bin/Debug/FizzBuzzGenerator.pdb
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/bin/Debug/nunit.framework.dll
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/bin/Debug/Xamarin.UITest.dll
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/obj/Debug/FizzBuzzGenerator.csprojAssemblyReference.cache
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/obj/Debug/FizzBuzzGenerator.csproj.CoreCompileInputs.cache
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/obj/Debug/FizzBuzzGenerator.csproj.CopyComplete
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/obj/Debug/FizzBuzzGenerator.dll
+/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/obj/Debug/FizzBuzzGenerator.pdb

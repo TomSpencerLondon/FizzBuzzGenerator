@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "65n48X2ZFNvhCQO87p05GEtt6ClU+KmXCR9P9jfrexN7Xoq9RlVQyT31wud90m111cyCcOKdccoHTZbfdlGxKA==",
+  "success": true,
+  "projectFilePath": "/Users/tomspencer/Desktop/FizzBuzz/FizzBuzzGenerator/FizzBuzzGenerator/FizzBuzzGenerator.csproj",
+  "expectedPackageFiles": [
+    "/Users/tomspencer/.nuget/packages/nunit/2.6.4/nunit.2.6.4.nupkg.sha512",
+    "/Users/tomspencer/.nuget/packages/xamarin.uitest/2.2.4/xamarin.uitest.2.2.4.nupkg.sha512"
+  ],
+  "logs": []
+}
